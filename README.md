@@ -23,3 +23,30 @@ Use at least 5 different HTML elements.
 Ensure semantic correctness.
 
 Good luck and happy coding! 🚀💻
+
+
+
+# My Multi-Page Responsive Website
+
+This project demonstrates HTML5, CSS3, and JavaScript skills by building a responsive, multi-page website deployed online.
+
+## Pages Included:
+- Home
+- About
+- Contact
+
+## Features:
+- Responsive layout
+- Semantic HTML5 structure
+- CSS animations/transitions
+- JavaScript form validation
+- Optional image slider
+
+## Technologies Used:
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages (for deployment)
+
+## Live URL:
+[https://yourusername.github.io/my-website ](https://yourusername.github.io/my-website )
